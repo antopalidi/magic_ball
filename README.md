@@ -1,6 +1,8 @@
 # Magic ball
 
-[![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)]()
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+
+
 
 Magic Ball - a mock console game in which you can get the answer to your question and find out your future 🧙
 
