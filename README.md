@@ -17,7 +17,7 @@ git clone https://github.com/antopalidi/magic_ball.git
 ```
 Enter the folder
 ```
-cd magic-ball
+cd magic_ball
 ```
 ##### Game run:
 ```
