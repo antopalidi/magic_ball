@@ -1,12 +1,25 @@
 # Magic ball
 
-Magic Ball - шуточная консольная игра, в которой вы можете получить ответ на свой вопрос и узнать свое будущее 🧙
+[![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)]()
 
-##### Описание игры:
+Magic Ball - a mock console game in which you can get the answer to your question and find out your future 🧙
 
-Придумайте вопрос и запустите программу, получите ответ на него в консоли.
+##### Game description:
 
-##### Запуск игры:
+Think of a question and run the program, get the answer in the console.
+
+###### Usage:
+
+Clone repo:
+
+```
+git clone https://github.com/antopalidi/magic_ball.git
+```
+Enter the folder
+```
+cd magic-ball
+```
+##### Game run:
 ```
 $ magic_ball.rb
 ```
