@@ -4,11 +4,11 @@
 
 Magic Ball - a mock console game in which you can get the answer to your question and find out your future 🧙
 
-##### Game description:
+#### Game description:
 
 Think of a question and run the program, get the answer in the console.
 
-###### Usage:
+#### Usage:
 
 Clone repo:
 
